@@ -2,7 +2,7 @@
 #
 # VERSION 0.0.3
 
-FROM resin/rpi-raspbian:jessie
+FROM jsurf/rpi-raspbian:jessie
 MAINTAINER Dariel Dato-on <oddrationale@gmail.com>
 MAINTAINER Ruohan Chen <crhan123@gmail.com>
 
